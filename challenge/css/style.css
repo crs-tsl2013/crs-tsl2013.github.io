@@ -28,7 +28,7 @@ aside {
 /* Typography */
 
 body {
-  background: ../img/background.png;
+  background: url(../img/carbon_fibre.png) ;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
 }
